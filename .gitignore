@@ -1,0 +1,13 @@
+#### joe made this: https://goel.io/joe
+
+#####=== Vagrant ===#####
+.vagrant/
+
+#####=== Vim ===#####
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
